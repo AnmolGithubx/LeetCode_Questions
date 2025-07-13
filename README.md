@@ -55,8 +55,8 @@ I love collaborative learning! If you'd like to contribute to the repository:
 
 If you have any questions, suggestions, or just want to chat about algorithms, feel free to reach out:
 
-- **Email**: [Your email here]
-- **LinkedIn**: [Your LinkedIn here]
+- **Email**: a56231919@gmail.com
+- **LinkedIn**: www.linkedin.com/in/thisisanmol
 
 ---
 
