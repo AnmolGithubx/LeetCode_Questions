@@ -20,7 +20,7 @@ No special setup is needed to view the solutions. If you'd like to run or test t
 - Navigate through the folder structure to find solutions for specific topics (e.g., Arrays, Strings, Trees, etc.) or difficulties (Easy, Medium, Hard).
   
 ### 2. Understand the Code
-- Each solution file is commented for clarity, with detailed explanations and step-by-step breakdowns where necessary.
+- Each solution file is neatly for clarity.
 
 ### 3. Contribute (Optional)
 - Found a bug or have an idea for improvement? You're welcome to contribute! Just follow the steps below to make a pull request.
