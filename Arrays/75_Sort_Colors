@@ -1,0 +1,14 @@
+class Solution {
+    public void sortColors(int[] nums) {
+        int n = nums.length;
+        for(int i=0;i<n-1;i++){ // yeh loop bataeyga ki kitne baar loop chalega
+            for(int j=0;j<n-1-i;j++){ // aur yeh loop compare krega values ko 
+                if(nums[j]>nums[j+1]){ // aur yahan se hum swap krenge 
+                    int temp = nums[j];
+                    nums[j] = nums[j+1];
+                    nums[j+1] = temp; 
+                }
+            }
+        }
+    }
+}
